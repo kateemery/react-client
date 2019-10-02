@@ -1,7 +1,7 @@
 {
-  "name": "trial",
+  "name": "robotni",
   "version": "1.0.0",
-  "description": "",
+  "description": "CS 121 (FA 2019) project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
