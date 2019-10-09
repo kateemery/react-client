@@ -2,6 +2,7 @@ import React, { Component } from "react";
 //import { Button, FormGroup, FormControl, ControlLabel } from "react-bootstrap";
 import "./Login.css";
 
+// the class Login takes the parent class's component to save and present the value
 class Login extends React.Component {
   contructor(){
     //super(); //pulling from parent class to extend
